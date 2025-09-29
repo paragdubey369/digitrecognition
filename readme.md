@@ -127,3 +127,4 @@ print(f"\nPredicted digit (index with highest probability): {predicted_digit}")
 # --- Display the image again,  with the prediction ---
 print(f"\nDisplaying the image with its actual and predicted label:")
 display_digit(X[random_index], actual_label, predicted_digit)      created a image digital recognition using neural Networks
+
